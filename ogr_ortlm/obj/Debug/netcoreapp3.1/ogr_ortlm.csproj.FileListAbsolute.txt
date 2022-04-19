@@ -1,0 +1,13 @@
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\bin\Debug\netcoreapp3.1\ogr_ortlm.exe
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\bin\Debug\netcoreapp3.1\ogr_ortlm.deps.json
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\bin\Debug\netcoreapp3.1\ogr_ortlm.runtimeconfig.json
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\bin\Debug\netcoreapp3.1\ogr_ortlm.runtimeconfig.dev.json
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\bin\Debug\netcoreapp3.1\ogr_ortlm.dll
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\bin\Debug\netcoreapp3.1\ogr_ortlm.pdb
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\obj\Debug\netcoreapp3.1\ogr_ortlm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\obj\Debug\netcoreapp3.1\ogr_ortlm.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\obj\Debug\netcoreapp3.1\ogr_ortlm.AssemblyInfo.cs
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\obj\Debug\netcoreapp3.1\ogr_ortlm.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\obj\Debug\netcoreapp3.1\ogr_ortlm.dll
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\obj\Debug\netcoreapp3.1\ogr_ortlm.pdb
+C:\Users\90553\source\repos\Veri_Uyg\ogr_ortlm\obj\Debug\netcoreapp3.1\ogr_ortlm.genruntimeconfig.cache
